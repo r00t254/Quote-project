@@ -20,4 +20,4 @@ You can clone the project
 Angular CLI
 # Known bugs
 There are no known bugs 
-
+# Contact detail
