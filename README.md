@@ -22,3 +22,4 @@ Angular CLI
 There are no known bugs 
 # Contact detail
 You can contact me via e-mail:root254.mary@gmail.com
+Feel free to share your comments and feedback here 
