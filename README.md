@@ -17,4 +17,5 @@ You can clone the project
 # Live Demo
 
 # Technology used
+Angular CLI
 
