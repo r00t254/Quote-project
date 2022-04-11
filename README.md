@@ -1,30 +1,30 @@
 # Quote-project
 
 # Description
-This is a web page that show application on both terrible and inspirational quotes and enable one to vote on any of them .
+.This is a web page that show application on both terrible and inspirational quotes and enable one to vote on any of them .
 # Live Link
 
 # Installation Requirements
-User can click posted quotes to display the author name
+.User can click posted quotes to display the author name
 
-User can delete quotes
+.User can delete quotes
 
-The user can also upvote and downvote to see the values
+.The user can also upvote and downvote to see the values
 
 # Development
-You can run ng serve --o in the terminal
+. can run ng serve --o in the terminal
 
-You can clone the project
+.You can clone the project
 # Live Demo
 
 # Technology used
-Angular CLI
+.Angular CLI
 # Known bugs
-There are no known bugs 
+.There are no known bugs 
 # Contact detail
-You can contact me via e-mail:root254.mary@gmail.com
+.You can contact me via e-mail:root254.mary@gmail.com
 
-Feel free to share your comments and feedback here 
+.Feel free to share your comments and feedback here 
 
 # License
 # MIT Copyright (c) 2022 Mary Auma
