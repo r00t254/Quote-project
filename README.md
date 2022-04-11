@@ -21,3 +21,4 @@ Angular CLI
 # Known bugs
 There are no known bugs 
 # Contact detail
+You can contact me via e-mail
