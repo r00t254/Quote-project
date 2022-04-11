@@ -7,7 +7,7 @@ This is a web page that show application on both terrible and inspirational quot
 User can click posted quotes to display the author name
 
 User can delete quotes
-
+The user can also upvote and downvote to see the values
 # Development
 You can run ng serve --o in the terminal
 
