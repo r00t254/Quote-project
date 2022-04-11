@@ -19,4 +19,5 @@ You can clone the project
 # Technology used
 Angular CLI
 # Known bugs
+There are no known bugs 
 
