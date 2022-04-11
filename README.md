@@ -16,3 +16,5 @@ You can run ng serve --o in the terminal
 You can clone the project
 # Live Demo
 
+# Technology used
+
