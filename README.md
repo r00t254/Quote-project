@@ -5,7 +5,7 @@ This is a web page that show application on both terrible and inspirational quot
 
 # Installation Requirements
 User can click posted quotes to display the author name
-
+User can delete quotes
 
 # Development
 You can run ng serve --o in the terminal
